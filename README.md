@@ -1,6 +1,6 @@
 # Bienvenue sur mon profil GitHub ! 🚀
 
-👋 Salut ! Je suis ValorisArtifex, et je suis en formation pour devenir un data analyst. Mon parcours dans le monde de la data a débuté avec un projet personnel fascinant : la création de tableaux dans Google Sheets sur l'achat et la vente d'or et d'argent, basés sur le cours de l'euro provenant de Google Finance et de la bourse. Pour automatiser ce processus, j'ai développé une fonction personnalisée en utilisant Apps Script, qui fait appel à une API pour récupérer les données nécessaires.
+👋 Salut ! Je suis ValorisArtifex, et je suisdiplômée en data analyst. Mon parcours dans le monde de la data a débuté avec un projet personnel fascinant : la création de tableaux dans Google Sheets sur l'achat et la vente d'or et d'argent, basés sur le cours de l'euro provenant de Google Finance et de la bourse. Pour automatiser ce processus, j'ai développé une fonction personnalisée en utilisant Apps Script, qui fait appel à une API pour récupérer les données nécessaires.
 
 Mon objectif principal est de perfectionner mes compétences en analyse de données et de les appliquer dans des projets concrets. Mon apprentissage se poursuit jusqu'en septembre 2024, et je suis toujours à la recherche de nouvelles opportunités pour approfondir mes connaissances et contribuer à des projets intéressants.
 
